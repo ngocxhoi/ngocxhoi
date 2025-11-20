@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Vue, Nuxt**
 
-- 📫 How to reach me **ngocxhoi.dev@gmail.com**
+- 📫 How to reach me **ngocxhoi@gmail.com**
 
 - ⚡ Fun fact **I am an fisher**
 
